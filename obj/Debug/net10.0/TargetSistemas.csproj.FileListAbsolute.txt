@@ -1,0 +1,14 @@
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\bin\Debug\net10.0\TargetSistemas.exe
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\bin\Debug\net10.0\TargetSistemas.deps.json
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\bin\Debug\net10.0\TargetSistemas.runtimeconfig.json
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\bin\Debug\net10.0\TargetSistemas.dll
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\bin\Debug\net10.0\TargetSistemas.pdb
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\TargetSistemas.AssemblyInfo.cs
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\TargetSistemas.dll
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\refint\TargetSistemas.dll
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\TargetSistemas.pdb
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\TargetSistemas.genruntimeconfig.cache
+C:\Matheus\Projetos\VSCommunity\TargetSistemas\obj\Debug\net10.0\ref\TargetSistemas.dll
